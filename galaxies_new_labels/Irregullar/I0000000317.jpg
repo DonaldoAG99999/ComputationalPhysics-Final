@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.funscrape.com/xmlrpc.php" />
+<title>Page not found &#8211; Funscrape</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Funscrape &raquo; Feed" href="https://www.funscrape.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Funscrape &raquo; Comments Feed" href="https://www.funscrape.com/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.funscrape.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.funscrape.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-style-css' href='https://www.funscrape.com/wp-content/themes/sahifa/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-ilightbox-skin-css' href='https://www.funscrape.com/wp-content/themes/sahifa/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Droid+Sans-css' href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.funscrape.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://www.funscrape.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='https://www.funscrape.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.funscrape.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.funscrape.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="shortcut icon" href="https://www.funscrape.com/wp-content/themes/sahifa/favicon.ico" title="Favicon" />
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://www.funscrape.com/wp-content/themes/sahifa/js/html5.js"></script>
+<script src="https://www.funscrape.com/wp-content/themes/sahifa/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.funscrape.com/wp-content/themes/sahifa/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.funscrape.com/wp-content/themes/sahifa/css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.funscrape.com/wp-content/themes/sahifa/css/ie7.css" />
+<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style type="text/css" media="screen">
+
+body{
+	font-family: 'Droid Sans';
+}
+
+
+</style>
+<script type="text/javascript">
+			/* <![CDATA[ */
+				var sf_position = '0';
+				var sf_templates = "<a href=\"{search_url_escaped}\">View All Results<\/a>";
+				var sf_input = '.search-live';
+				jQuery(document).ready(function(){
+					jQuery(sf_input).ajaxyLiveSearch({"expand":false,"searchUrl":"https:\/\/www.funscrape.com\/?s=%s","text":"Search","delay":500,"iwidth":180,"width":315,"ajaxUrl":"https:\/\/www.funscrape.com\/wp-admin\/admin-ajax.php","rtl":0});
+					jQuery(".live-search_ajaxy-selective-input").keyup(function() {
+						var width = jQuery(this).val().length * 8;
+						if(width < 50) {
+							width = 50;
+						}
+						jQuery(this).width(width);
+					});
+					jQuery(".live-search_ajaxy-selective-search").click(function() {
+						jQuery(this).find(".live-search_ajaxy-selective-input").focus();
+					});
+					jQuery(".live-search_ajaxy-selective-close").click(function() {
+						jQuery(this).parent().remove();
+					});
+				});
+			/* ]]> */
+		</script>
+</head>
+<body id="top" class="error404 lazy-enabled">
+<div class="wrapper-outer">
+<div class="background-cover"></div>
+<aside id="slide-out">
+<div class="search-mobile">
+<form method="get" id="searchform-mobile" action="https://www.funscrape.com/">
+<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input type="text" id="s-mobile" name="s" title="Search" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+</form>
+</div>
+<div class="social-icons">
+<a class="ttip-none" title="Rss" href="https://www.funscrape.com/feed/" target="_blank"><i class="fa fa-rss"></i></a>
+</div>
+<div id="mobile-menu"></div>
+</aside>
+<div id="wrapper" class="boxed">
+<div class="inner-wrapper">
+<header id="theme-header" class="theme-header">
+<div id="top-nav" class="top-nav">
+<div class="container">
+<div class="menu"><ul>
+<li class="page_item page-item-2"><a href="https://www.funscrape.com/sample-page/">Sample Page</a></li>
+</ul></div>
+<div class="search-block">
+<form method="get" id="searchform-header" action="https://www.funscrape.com/">
+<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input class="search-live" type="text" id="s-header" name="s" title="Search" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+</form>
+</div>
+<div class="social-icons">
+<a class="ttip-none" title="Rss" href="https://www.funscrape.com/feed/" target="_blank"><i class="fa fa-rss"></i></a>
+</div>
+</div>
+</div>
+<div class="header-content">
+<a id="slide-out-open" class="slide-out-open" href="#"><span></span></a>
+<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+<h2> <a title="Funscrape" href="https://www.funscrape.com/">
+<img src="https://www.funscrape.com/wp-content/themes/sahifa/images/logo.png" alt="Funscrape" /><strong>Funscrape Just another WordPress site</strong>
+</a>
+</h2> </div>
+<div class="clear"></div>
+</div>
+<nav id="main-nav" class="fixed-enabled">
+<div class="container">
+<a href="https://www.funscrape.com/?tierand=1" class="random-article ttip" title="Random Article"><i class="fa fa-random"></i></a>
+</div>
+</nav>
+</header>
+<div class="clear"></div>
+<div id="breaking-news" class="breaking-news">
+<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span>Breaking News</span></span>
+<ul>
+<li><a href="https://www.funscrape.com/5-2/" title="American university online program scholarships">American university online program scholarships</a></li>
+<li><a href="https://www.funscrape.com/hello-world/" title="Hello world!">Hello world!</a></li>
+</ul>
+<script type="text/javascript">
+			jQuery(document).ready(function(){
+								jQuery('#breaking-news ul').innerFade({animationType: 'fade', speed: 750 , timeout: 3500});
+							});
+					</script>
+</div> 
+<div id="main-content" class="container full-width">
+<div class="content">
+<div class="post error404">
+<div class="post-inner">
+<div class="title-404">404 :(</div>
+<h2 class="post-title">Not Found</h2>
+<div class="clear"></div>
+<div class="entry">
+<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+<div class="search-block-large">
+<form method="get" action="https://www.funscrape.com/">
+<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input type="text" id="s" name="s" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+</form>
+</div>
+</div>
+<section id="related_posts">
+<div class="block-head">
+<h3>Check Also</h3><div class="stripe-line"></div>
+</div>
+<div class="post-listing">
+<div class="related-item">
+<h3><a href="https://www.funscrape.com/5-2/" rel="bookmark">American university online program scholarships</a></h3>
+<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>1 hour ago</span></p>
+</div>
+<div class="related-item">
+<h3><a href="https://www.funscrape.com/hello-world/" rel="bookmark">Hello world!</a></h3>
+<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>1 day ago</span></p>
+</div>
+<div class="clear"></div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<footer id="theme-footer">
+<div id="footer-widget-area" class="footer-3c">
+</div>
+<div class="clear"></div>
+</footer>
+<div class="clear"></div>
+<div class="footer-bottom">
+<div class="container">
+<div class="alignright">
+Powered by <a href="https://wordpress.org">WordPress</a> | Designed by <a href="http://tielabs.com/">TieLabs</a> </div>
+<div class="social-icons">
+<a class="ttip-none" title="Rss" href="https://www.funscrape.com/feed/" target="_blank"><i class="fa fa-rss"></i></a>
+</div>
+<div class="alignleft">
+&#169; Copyright 2020, All Rights Reserved </div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="topcontrol" class="fa fa-angle-up" title="Scroll To Top"></div>
+<div id="fb-root"></div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"mobile_menu_active":"1","mobile_menu_top":"","lightbox_all":"1","lightbox_gallery":"1","woocommerce_lightbox":"","lightbox_skin":"dark","lightbox_thumb":"","lightbox_arrows":"","sticky_sidebar":"1","is_singular":"","reading_indicator":"","lang_no_results":"No Results","lang_results_found":"Results Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.funscrape.com/wp-content/themes/sahifa/js/tie-scripts.js'></script>
+<script type='text/javascript' src='https://www.funscrape.com/wp-content/themes/sahifa/js/ilightbox.packed.js'></script>
+<script type='text/javascript' src='https://www.funscrape.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://www.funscrape.com/wp-content/themes/sahifa/js/search.js'></script>
+</body>
+</html>
